@@ -76,5 +76,7 @@ public class Adventurer{
 	ans += "Dex: " + DEX+"\n";
 	ans += "int: " + INT;                                            
 	System.out.println(ans);    
+	
+	
     }
 }
